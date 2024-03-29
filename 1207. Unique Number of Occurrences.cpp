@@ -1,6 +1,6 @@
 /// @author Merna Islam
-/// @date 29/03/2024.
-/// @link https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
+/// @date 17/01/2024.
+/// @link https://leetcode.com/problems/unique-number-of-occurrences
 
 class Solution {
 public:
